@@ -54,10 +54,10 @@ The dashboard was developed using **Tableau Desktop Public Edition**, employing 
 ---
 
 ### 🔍 **Sample Insights from the Dashboard**
-- 🇺🇸 **USA** leads with the highest number of medals and athletes
-- 🏃 **Athletics** is the most dominant sport with over 3,000 medals
-- ❄️ **Winter Games** have significantly fewer medals than Summer
-- 🎯 **Shooting, Gymnastics, and Boxing** follow as top-performing sports
+- 🌎 **USA** leads with the highest number of medals and athletes  
+- 🏃 **Athletics** is the most dominant sport with over 3,000 medals  
+- ❄️ **Winter Games** have significantly fewer medals than Summer  
+- 🎯 **Shooting, Gymnastics, and Boxing** follow as top-performing sports  
 - 📊 **Year-wise medal growth** reflects historical disruptions and expansions
 
 ---
